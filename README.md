@@ -1,4 +1,5 @@
 # Weather App
+![big_screen.png](https://github.com/Nazickj2023/weather_app/blob/master/static/images/big_screen.png)
 ## Проект розроблено для ознайомлення з роботою API openWeaher. У проекті ви можете дізнатися, як викорустовувати API в Python за доомогою модулю requests. Обробка за допомогою методу JSON.
 ## Графіка у проекті зроблена на бібліотеці CustomTKinter.
 
